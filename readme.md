@@ -9,7 +9,7 @@
 
 
 
-# Desafio 11: GoRestaurant web
+# Desafio 11: GoRestaurant mobile
 > Desafio do bootcamp Rocketseat
 
 Nesse desafio, desenvolvemos mais uma aplicação, a GoRestaurant, só que dessa vez a versão mobile para o cliente. Praticamos o que aprendemos até agora no React Native junto com TypeScript, para criar um pequeno app para pedidos de comida.
@@ -27,6 +27,7 @@ Essa será uma aplicação que irá se conectar a uma Fake API, e exibir e filtr
   * [Rotas](#Rotas)
   * [Testes](#Testes)
   * [Como rodar na sua máquina](#Como-rodar-na-sua-máquina)
+  * [License](#License)
 
 <!--te-->
 
@@ -119,4 +120,7 @@ No terminal digite o código abaixo para executar o server local.
 > yarn json-server server.json -p 3333
 
 Digite `yarn android` para executar a aplicação, a seguir irá abrir a aplicação no emulador.
+
+## License
+> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Matheus-SS/GoRestaurantMobile/blob/master/LICENSE) para mais detalhes.
 
