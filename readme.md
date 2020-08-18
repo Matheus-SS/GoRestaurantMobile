@@ -47,11 +47,14 @@ Essa aplicação possuía um layout que nós pudéssemos seguir para conseguir v
 
 O layout pode ser acessado através da página do Figma: https://www.figma.com/file/cHzfYrUBgdzp1XrRuUpggk/GoRestaurant-Mobile?node-id=1603%3A448
 
-  ![](screens/01.png)
-  ![](screens/02.png)
-  ![](screens/03.png)
-  ![](screens/04.png)
-  ![](screens/05.png)
+<p>
+  <img src="screens/01.png" height="500 width="400/>
+  <img src="screens/02.png" height="500 width="400/>
+  <img src="screens/03.png" height="500 width="400/>
+  <img src="screens/04.png" height="500 width="400/>
+  <img src="screens/05.png" height="500 width="400/>
+</p>
+  
 
 
 #### OBS.: O layout da aplicação já estava feito, nós precisávamos executar as funções da aplicação e não desenvolver o layout.
